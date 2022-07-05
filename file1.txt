@@ -1,2 +1,2 @@
-I dont think you need to type Esc to enter the file either.
-Welcome to the first file editor with git. Ezgettit.
+Welcome
+This is in the initial commit.
