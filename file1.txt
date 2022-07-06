@@ -1,2 +1,3 @@
 Welcome
-This is in the initial commit.
+This is in the initial commit
+The next day, we will be working on branches.
