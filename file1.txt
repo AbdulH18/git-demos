@@ -1,4 +1,5 @@
 Welcome
 This is in the initial commit
 The next day, we will be working on branches.
-This is the second (hotfix) file and so i will add something different to see the difference when added together or something,
+This is the second (hotfix) file and so i will add something different to see the difference when added together or something.
+This is perfect because i copied the hotfix branch and can now merge the hotfix file and use this as a draft.
